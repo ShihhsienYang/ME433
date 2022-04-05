@@ -24,7 +24,6 @@ Asparagus season may run through the spring months from March to June but it hit
 - 1/2 tsp. crushed red pepper flakes
 
 ## Instructions
-
 Bring a large pot of salted water to a boil. Add penne and cook according to package directions, until al dente. Reserve ½ cup pasta water, then drain. Set aside.
 
 Meanwhile, in a large skillet over medium-high heat, heat 1 tablespoon oil. Cook asparagus until crispy, then season with pinch of salt. Transfer to a plate and set aside. 
