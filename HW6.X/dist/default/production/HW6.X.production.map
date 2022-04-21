@@ -1,105 +1,105 @@
 Archive member included to satisfy reference by file (symbol)
 
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (_bootstrap_exception_handler)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (_bootstrap_exception_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (_on_reset)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (_on_reset)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (_on_bootstrap)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (_on_bootstrap)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (_nmi_handler)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (_nmi_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (__pic32_data_init)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (__pic32_data_init)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o (_general_exception_context)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o (_general_exception_context)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector0.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_0)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_0)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector1.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_1)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_1)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector2.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_2)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_2)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector3.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_3)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_3)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector4.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_4)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_4)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector5.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_5)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_5)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector6.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_6)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_6)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector7.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_7)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_7)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector8.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_8)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_8)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector9.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_9)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_9)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector10.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_10)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_10)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector11.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_11)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_11)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector12.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_12)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_12)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector13.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_13)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_13)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector14.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_14)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_14)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector15.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_15)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_15)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector16.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_16)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_16)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector17.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_17)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_17)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector18.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_18)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_18)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector19.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_19)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_19)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector20.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_20)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_20)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector21.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_21)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_21)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector22.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_22)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_22)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector23.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_23)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_23)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector24.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_24)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_24)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector25.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_25)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_25)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector26.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_26)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_26)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector27.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_27)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_27)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector28.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_28)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_28)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector29.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_29)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_29)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector30.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_30)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_30)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector31.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_31)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_31)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector32.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_32)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_32)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector33.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_33)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_33)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector34.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_34)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_34)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector35.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_35)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_35)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector36.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_36)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_36)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector37.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_37)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_37)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector38.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_38)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_38)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector39.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_39)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_39)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector40.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_40)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_40)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector41.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_41)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_41)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector42.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_42)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_42)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector43.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o (__vector_dispatch_43)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o (__vector_dispatch_43)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
                               /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o) (_general_exception_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
@@ -114,20 +114,20 @@ Microchip PIC32 Memory-Usage Report
 kseg0 Program-Memory Usage
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
-.text                   0x9d000000          0x854        2132  App's exec code 
-.text.general_exception 0x9d000854           0xdc         220   
-.text                   0x9d000930           0x8c         140  App's exec code 
-.text.main_entry        0x9d0009bc           0x54          84   
-.text._bootstrap_except 0x9d000a10           0x48          72   
-.text._general_exceptio 0x9d000a58           0x48          72   
-.vector_default         0x9d000aa0           0x48          72   
-.text                   0x9d000ae8           0x44          68  App's exec code 
-.MIPS.abiflags          0x9d000b30           0x18          24   
-.text                   0x9d000b48           0x18          24  App's exec code 
-.dinit                  0x9d000b60           0x10          16   
-.text._on_reset         0x9d000b70            0x8           8   
-.text._on_bootstrap     0x9d000b78            0x8           8   
-      Total kseg0_program_mem used  :       0xb7c        2940  1.1% of 0x3f000
+.text                   0x9d000000          0x834        2100  App's exec code 
+.text.general_exception 0x9d000834           0xdc         220   
+.text                   0x9d000910           0x8c         140  App's exec code 
+.text.main_entry        0x9d00099c           0x54          84   
+.text._bootstrap_except 0x9d0009f0           0x48          72   
+.text._general_exceptio 0x9d000a38           0x48          72   
+.vector_default         0x9d000a80           0x48          72   
+.text                   0x9d000ac8           0x44          68  App's exec code 
+.MIPS.abiflags          0x9d000b10           0x18          24   
+.text                   0x9d000b28           0x18          24  App's exec code 
+.dinit                  0x9d000b40           0x10          16   
+.text._on_reset         0x9d000b50            0x8           8   
+.text._on_bootstrap     0x9d000b58            0x8           8   
+      Total kseg0_program_mem used  :       0xb5c        2908  1.1% of 0x3f000
 
 kseg0 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -191,7 +191,7 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x188         392  33.6% of 0x490
         --------------------------------------------------------------------------
-         Total Program Memory used  :       0xe74        3700  1.4% of 0x40490
+         Total Program Memory used  :       0xe54        3668  1.4% of 0x40490
         --------------------------------------------------------------------------
 
 
@@ -224,16 +224,16 @@ Discarded input sections
  .reginfo       0x0000000000000000       0x18 build/default/production/i2c_master_noint.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 build/default/production/i2c_master_noint.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
- .discard       0x0000000000000000       0xb0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
+ .discard       0x0000000000000000       0xb0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
  .reginfo       0x0000000000000000       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
@@ -629,9 +629,9 @@ LOAD /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../.
 LOAD build/default/production/main.o
 LOAD build/default/production/i2c_master_noint.o
                 0x0000000000000001                __MPLAB_BUILD = 0x1
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
 LOAD /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
 LOAD /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/libgcc.a
 START GROUP
@@ -690,16 +690,16 @@ END GROUP
 
 .reset          0x00000000bfc00000      0x178
  *(.reset)
- .reset         0x00000000bfc00000        0x8 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .reset         0x00000000bfc00000        0x8 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
                 0x00000000bfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0x00000000bfc00008      0x170 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+                0x00000000bfc00008      0x170 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
                 0x00000000bfc00008                _startup
 
 .bev_excpt      0x00000000bfc00380       0x10
  *(.bev_handler)
- .bev_handler   0x00000000bfc00380       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .bev_handler   0x00000000bfc00380       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
 
 .dbg_excpt      0x00000000bfc00480        0x0
                 0x00000000bfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -709,7 +709,7 @@ END GROUP
 
 .app_excpt      0x000000009d03f180       0x10
  *(.gen_handler)
- .gen_handler   0x000000009d03f180       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .gen_handler   0x000000009d03f180       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
 
 .vector_0       0x000000009d03f200        0x8
  *(.vector_0)
@@ -1320,38 +1320,38 @@ END GROUP
  *.elf(.debug_pubnames)
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000    0x220e1
+.debug_info     0x0000000000000000    0x220e4
  *.elf(.debug_info .gnu.linkonce.wi.*)
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x0000000000000000    0x11051 build/default/production/main.o
- .debug_info    0x0000000000011051    0x10f50 build/default/production/i2c_master_noint.o
- .debug_info    0x0000000000021fa1       0x41 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x0000000000021fe2       0x3f /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_info    0x0000000000022021       0x3f /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_info    0x0000000000022060       0x41 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .debug_info    0x00000000000220a1       0x40 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_info    0x0000000000000000    0x11054 build/default/production/main.o
+ .debug_info    0x0000000000011054    0x10f50 build/default/production/i2c_master_noint.o
+ .debug_info    0x0000000000021fa4       0x41 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000000000021fe5       0x3f /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_info    0x0000000000022024       0x3f /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x0000000000022063       0x41 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x00000000000220a4       0x40 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
-.debug_abbrev   0x0000000000000000      0x523
+.debug_abbrev   0x0000000000000000      0x514
  *.elf(.debug_abbrev)
  *(.debug_abbrev)
- .debug_abbrev  0x0000000000000000      0x25a build/default/production/main.o
- .debug_abbrev  0x000000000000025a      0x1da build/default/production/i2c_master_noint.o
- .debug_abbrev  0x0000000000000434       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_abbrev  0x0000000000000465       0x2e /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_abbrev  0x0000000000000493       0x2e /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_abbrev  0x00000000000004c1       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .debug_abbrev  0x00000000000004f2       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_abbrev  0x0000000000000000      0x24b build/default/production/main.o
+ .debug_abbrev  0x000000000000024b      0x1da build/default/production/i2c_master_noint.o
+ .debug_abbrev  0x0000000000000425       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x0000000000000456       0x2e /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x0000000000000484       0x2e /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00000000000004b2       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .debug_abbrev  0x00000000000004e3       0x31 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
-.debug_line     0x0000000000000000      0x8a7
+.debug_line     0x0000000000000000      0x8a9
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x0000000000000000      0x2ee build/default/production/main.o
- .debug_line    0x00000000000002ee      0x20e build/default/production/i2c_master_noint.o
- .debug_line    0x00000000000004fc       0xca /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x00000000000005c6       0xa6 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_line    0x000000000000066c       0xaa /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_line    0x0000000000000716       0xc8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .debug_line    0x00000000000007de       0xc9 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_line    0x0000000000000000      0x2f0 build/default/production/main.o
+ .debug_line    0x00000000000002f0      0x20e build/default/production/i2c_master_noint.o
+ .debug_line    0x00000000000004fe       0xca /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00000000000005c8       0xa6 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_line    0x000000000000066e       0xaa /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x0000000000000718       0xc8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x00000000000007e0       0xc9 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
 .debug_frame    0x0000000000000000      0x280
  *.elf(.debug_frame)
@@ -1424,11 +1424,11 @@ END GROUP
  .gnu.attributes
                 0x0000000000000020       0x10 build/default/production/i2c_master_noint.o
  .gnu.attributes
-                0x0000000000000030       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+                0x0000000000000030       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
  .gnu.attributes
-                0x0000000000000040       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
+                0x0000000000000040       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
  .gnu.attributes
-                0x0000000000000050       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+                0x0000000000000050       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
  .gnu.attributes
                 0x0000000000000060       0x10 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
  .gnu.attributes
@@ -1864,22 +1864,22 @@ LOAD data_init
  .data          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
 
 .bss%z107       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
 
 .data%z108      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
 
 .bss%z109       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
 
 .data%z110      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
 
 .bss%z111       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
 
 .data%z112      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
 
 .bss%z113       0x0000000000000000        0x0
  .bss           0x0000000000000000        0x0 build/default/production/i2c_master_noint.o
@@ -1905,83 +1905,83 @@ LOAD data_init
                 0x00000000bfc00480       0x2c /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/debug-exception-return.o
                 0x00000000bfc00480                __DbgExecReturn
 
-.text           0x000000009d000000      0x854
- .text          0x000000009d000000      0x5d0 build/default/production/main.o
+.text           0x000000009d000000      0x834
+ .text          0x000000009d000000      0x5b0 build/default/production/main.o
                 0x000000009d000000                main
-                0x000000009d000234                blink
-                0x000000009d000348                ReadUART1
-                0x000000009d000430                WriteUART1
-                0x000000009d0004ac                mcp23008_write
-                0x000000009d000538                mcp23008_read
- .text          0x000000009d0005d0      0x284 build/default/production/i2c_master_noint.o
-                0x000000009d0005d0                i2c_master_setup
-                0x000000009d000614                i2c_master_start
-                0x000000009d000668                i2c_master_restart
-                0x000000009d0006bc                i2c_master_send
-                0x000000009d000730                i2c_master_recv
-                0x000000009d00078c                i2c_master_ack
-                0x000000009d000800                i2c_master_stop
+                0x000000009d000204                blink
+                0x000000009d000318                ReadUART1
+                0x000000009d000400                WriteUART1
+                0x000000009d00047c                mcp23008_write
+                0x000000009d000508                mcp23008_read
+ .text          0x000000009d0005b0      0x284 build/default/production/i2c_master_noint.o
+                0x000000009d0005b0                i2c_master_setup
+                0x000000009d0005f4                i2c_master_start
+                0x000000009d000648                i2c_master_restart
+                0x000000009d00069c                i2c_master_send
+                0x000000009d000710                i2c_master_recv
+                0x000000009d00076c                i2c_master_ack
+                0x000000009d0007e0                i2c_master_stop
 
 .text.general_exception
-                0x000000009d000854       0xdc
+                0x000000009d000834       0xdc
  .text.general_exception
-                0x000000009d000854       0xdc /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                0x000000009d000854                _general_exception_context
+                0x000000009d000834       0xdc /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o)
+                0x000000009d000834                _general_exception_context
 
-.text           0x000000009d000930       0x8c
- .text          0x000000009d000930       0x8c /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                0x000000009d000930                __pic32_data_init
+.text           0x000000009d000910       0x8c
+ .text          0x000000009d000910       0x8c /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
+                0x000000009d000910                __pic32_data_init
 
 .text.main_entry
-                0x000000009d0009bc       0x54
+                0x000000009d00099c       0x54
  .text.main_entry
-                0x000000009d0009bc       0x54 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
-                0x000000009d0009f0                __crt0_exit
+                0x000000009d00099c       0x54 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
+                0x000000009d0009d0                __crt0_exit
 
 .text._bootstrap_exception_handler
-                0x000000009d000a10       0x48
+                0x000000009d0009f0       0x48
  .text._bootstrap_exception_handler
-                0x000000009d000a10       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                0x000000009d000a10                _bootstrap_exception_handler
+                0x000000009d0009f0       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+                0x000000009d0009f0                _bootstrap_exception_handler
 
 .text._general_exception_handler
-                0x000000009d000a58       0x48
+                0x000000009d000a38       0x48
  .text._general_exception_handler
-                0x000000009d000a58       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
-                0x000000009d000a58                _general_exception_handler
+                0x000000009d000a38       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+                0x000000009d000a38                _general_exception_handler
 
 .vector_default
-                0x000000009d000aa0       0x48
+                0x000000009d000a80       0x48
  .vector_default
-                0x000000009d000aa0       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
-                0x000000009d000aa0                _DefaultInterrupt
+                0x000000009d000a80       0x48 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+                0x000000009d000a80                _DefaultInterrupt
 
-.text           0x000000009d000ae8       0x44
- .text          0x000000009d000ae8       0x44 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
-                0x000000009d000ae8                __pic32_software_reset
+.text           0x000000009d000ac8       0x44
+ .text          0x000000009d000ac8       0x44 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
+                0x000000009d000ac8                __pic32_software_reset
 
-.MIPS.abiflags  0x000000009d000b30       0x18
+.MIPS.abiflags  0x000000009d000b10       0x18
  .MIPS.abiflags
-                0x000000009d000b30       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/debug-exception-return.o
+                0x000000009d000b10       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/debug-exception-return.o
 
-.text           0x000000009d000b48       0x18
- .text          0x000000009d000b48       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                0x000000009d000b48                _nmi_handler
+.text           0x000000009d000b28       0x18
+ .text          0x000000009d000b28       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
+                0x000000009d000b28                _nmi_handler
 
-.dinit          0x000000009d000b60       0x10
- .dinit         0x000000009d000b60       0x10 data_init
+.dinit          0x000000009d000b40       0x10
+ .dinit         0x000000009d000b40       0x10 data_init
 
 .text._on_reset
-                0x000000009d000b70        0x8
+                0x000000009d000b50        0x8
  .text._on_reset
-                0x000000009d000b70        0x8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                0x000000009d000b70                _on_reset
+                0x000000009d000b50        0x8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+                0x000000009d000b50                _on_reset
 
 .text._on_bootstrap
-                0x000000009d000b78        0x8
+                0x000000009d000b58        0x8
  .text._on_bootstrap
-                0x000000009d000b78        0x8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                0x000000009d000b78                _on_bootstrap
+                0x000000009d000b58        0x8 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+                0x000000009d000b58                _on_bootstrap
 
 .text%z119      0x0000000000000000        0x0
  .text          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
@@ -2134,13 +2134,13 @@ LOAD data_init
  .text          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
 
 .text%z169      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccmK1uwX.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cc46Sr8p.o
 
 .text%z170      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccFbZlZL.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccRMk1cT.o
 
 .text%z171      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cczyE9TC.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccUq1wDh.o
 
 .text%z172      0x0000000000000000        0x0
  .text          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/debug-exception-return.o

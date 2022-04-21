@@ -1,4 +1,3 @@
-
 #include <xc.h>          // processor SFR definitions
 #include <sys/attribs.h> // __ISR macro
 #include <stdio.h>
@@ -92,48 +91,29 @@ int main() {
   
   
   i2c_master_setup();
-  i2c_master_start();
-  i2c_master_send(ADDRESS); // send address + write bit 0b01000000
-  i2c_master_send(0x00);       // command register address for IODIRA
-  i2c_master_send(0x0F);       // set all A pins to output
-  i2c_master_restart();
-  i2c_master_send(ADDRESS);
-  i2c_master_send(OLAT);
-  i2c_master_send(0x00);
-  i2c_master_stop();
-  
-  mcp23008_write(ADDRESS, OLAT, 0b01111111);
+
+  mcp23008_write(ADDRESS, IODIR, 0b01111111);
+  mcp23008_write(ADDRESS, OLAT, 0b10000000);
   
   __builtin_enable_interrupts();
-  
-//  mcp23008_write(ADDRESS, OLAT, 0b10000000);
-//  mcp23008_write(ADDRESS, OLAT, 0b10000000); // turn on pin GPA7
-//  // set all B pins to input
-//  mcp23008_write(ADDRESS, OLAT, 0b00000000);
   unsigned char r;
   
   while (1) {
     _CP0_SET_COUNT(0); // reset core timer
     LATAINV = 0b10000; // toggle pin A4
-    mcp23008_write(ADDRESS, OLAT, 0b10000000);
     while (_CP0_GET_COUNT() < 6000000) {
       ;
     } // 0.25s delay
-  i2c_master_start();
-  i2c_master_send(0b01000000); // send address + write bit 0b01000000
-  i2c_master_send(0x0A);       
-  i2c_master_send(0b10000000);
-  i2c_master_stop();
-//    mcp23008_write(ADDRESS, OLAT, 0b10000000); // turn on gp7
-//    r = mcp23008_read(ADDRESS, GPIO);
-//    r &= 1;
-//    if (r == 0){
-//      //butt is pushed
-//      mcp23008_write(ADDRESS, OLAT, 0b10000000); // turn on gp7
-//  }
-//    if (r == 1){
-//      mcp23008_write(ADDRESS, OLAT, 0b00000000); // turn off gp7
-//    }
+
+    r = mcp23008_read(ADDRESS, GPIO);
+    r &= 1;
+    if (r == 0){
+      //butt is pushed
+      mcp23008_write(ADDRESS, OLAT, 0b10000000); // turn on gp7
+  }
+    if (r == 1){
+      mcp23008_write(ADDRESS, OLAT, 0b00000000); // turn off gp7
+    }
   }
 }
 
@@ -202,35 +182,13 @@ void mcp23008_write(unsigned char ad, unsigned char reg, unsigned char val){
 unsigned char mcp23008_read(unsigned char ad, unsigned char reg){
     unsigned char r;
     i2c_master_start();
-    i2c_master_send(ad<<1);
+    i2c_master_send(ad);
     i2c_master_send(reg);
     i2c_master_restart();
+    i2c_master_send(ad | 0b1 );
     r = i2c_master_recv();
     i2c_master_ack(1);//done
     i2c_master_stop();
     
     return r;
 }
-//void initSPI() {
-//  // Pin B14 has to be SCK1
-//  // Turn off analog pins
-//  ANSELA = 0; // 1 for analog
-//  // Make A0 an output pin for CS
-//  TRISAbits.TRISA0 = 0;
-//  LATAbits.LATA0 = 1;
-//  // Make A1 SDO1
-//  RPA1Rbits.RPA1R = 0b0011;
-//  // Make B5 SDI1
-//  SDI1Rbits.SDI1R = 0b0001;
-//
-//  // setup SPI1
-//  SPI1CON = 0;    // turn off the SPI module and reset it
-//  SPI1BUF;        // clear the rx buffer by reading from it
-//  SPI1BRG = 1000; // 1000 for 12 kHz, 1 for 12 MHz; // baud rate to 10 MHz
-//                  // (SPI4BRG = (4000000/(2*desired)-1))
-//  SPI1STATbits.SPIROV = 0; // clear the overflow bit
-//  SPI1CONbits.CKE =
-//      1; // data changes when clock goes from hi to lo (bc CKP is 0)
-//  SPI1CONbits.MSTEN = 1; // master operation
-//  SPI1CONbits.ON = 1;    // turn on SPI
-//}
