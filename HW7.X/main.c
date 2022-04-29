@@ -1,6 +1,6 @@
 #include<xc.h>           // processor SFR definitions
 #include<sys/attribs.h>  // __ISR macro
-
+#include <math.h>
 #include <stdio.h>
 
 #include "i2c_master_noint.h"
@@ -89,7 +89,7 @@ int main() {
     //sprintf(m_out,"MPU-6050 WHO_AM_I: %X\r\n",whoami());
     //WriteUART1(m_out);
     char who = whoami(); // ask if the imu is there
-    blink();
+    
     if (who != 0x68){
         // if the imu is not there, get stuck here forever
         while(1){
@@ -118,6 +118,8 @@ int main() {
             gz[i] = conv_zG(IMU_buf);
             temp[i] = conv_temp(IMU_buf);
             
+            
+            
             while(_CP0_GET_COUNT()<24000000/2/100){}
         }
         
@@ -126,7 +128,7 @@ int main() {
             sprintf(m_out,"%d %f %f %f %f %f %f %f\r\n",NUM_DATA_PNTS-i,ax[i],ay[i],az[i],gx[i],gy[i],gz[i],temp[i]);
             WriteUART1(m_out);
         }
-   
+        
     }
 }
 
