@@ -3,105 +3,105 @@ Archive member included to satisfy reference by file (symbol)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(memset.o)
                               build/default/production/ssd1306.o (memset)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (_bootstrap_exception_handler)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (_bootstrap_exception_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (_on_reset)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (_on_reset)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (_on_bootstrap)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (_on_bootstrap)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (_nmi_handler)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (_nmi_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (__pic32_data_init)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (__pic32_data_init)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o (_general_exception_context)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o (_general_exception_context)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector0.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_0)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_0)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector1.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_1)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_1)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector2.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_2)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_2)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector3.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_3)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_3)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector4.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_4)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_4)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector5.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_5)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_5)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector6.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_6)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_6)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector7.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_7)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_7)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector8.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_8)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_8)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector9.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_9)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_9)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector10.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_10)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_10)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector11.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_11)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_11)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector12.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_12)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_12)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector13.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_13)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_13)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector14.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_14)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_14)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector15.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_15)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_15)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector16.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_16)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_16)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector17.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_17)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_17)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector18.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_18)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_18)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector19.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_19)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_19)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector20.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_20)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_20)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector21.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_21)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_21)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector22.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_22)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_22)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector23.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_23)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_23)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector24.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_24)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_24)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector25.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_25)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_25)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector26.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_26)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_26)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector27.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_27)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_27)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector28.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_28)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_28)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector29.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_29)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_29)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector30.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_30)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_30)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector31.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_31)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_31)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector32.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_32)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_32)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector33.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_33)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_33)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector34.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_34)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_34)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector35.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_35)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_35)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector36.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_36)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_36)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector37.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_37)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_37)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector38.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_38)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_38)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector39.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_39)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_39)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector40.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_40)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_40)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector41.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_41)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_41)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector42.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_42)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_42)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(vector43.o)
-                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o (__vector_dispatch_43)
+                              /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o (__vector_dispatch_43)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
                               /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(general-exception.o) (_general_exception_handler)
 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
@@ -368,16 +368,16 @@ Discarded input sections
  .reginfo       0x0000000000000000       0x18 build/default/production/i2c_master_noint.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 build/default/production/i2c_master_noint.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
- .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
- .discard       0x0000000000000000       0xb0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+                0x0000000000000000       0x18 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
+ .discard       0x0000000000000000       0xb0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
  .reginfo       0x0000000000000000       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
@@ -1062,9 +1062,9 @@ LOAD build/default/production/main.o
 LOAD build/default/production/ssd1306.o
 LOAD build/default/production/i2c_master_noint.o
                 0x0000000000000001                __MPLAB_BUILD = 0x1
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
-LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
+LOAD /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
 LOAD /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
 LOAD /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/libgcc.a
 START GROUP
@@ -1123,16 +1123,16 @@ END GROUP
 
 .reset          0x00000000bfc00000      0x178
  *(.reset)
- .reset         0x00000000bfc00000        0x8 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .reset         0x00000000bfc00000        0x8 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
                 0x00000000bfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0x00000000bfc00008      0x170 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+                0x00000000bfc00008      0x170 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
                 0x00000000bfc00008                _startup
 
 .bev_excpt      0x00000000bfc00380       0x10
  *(.bev_handler)
- .bev_handler   0x00000000bfc00380       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .bev_handler   0x00000000bfc00380       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
 
 .dbg_excpt      0x00000000bfc00480        0x0
                 0x00000000bfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -1142,7 +1142,7 @@ END GROUP
 
 .app_excpt      0x000000009d03f180       0x10
  *(.gen_handler)
- .gen_handler   0x000000009d03f180       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .gen_handler   0x000000009d03f180       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
 
 .vector_0       0x000000009d03f200        0x8
  *(.vector_0)
@@ -2180,11 +2180,11 @@ END GROUP
  .gnu.attributes
                 0x0000000000000030       0x10 build/default/production/i2c_master_noint.o
  .gnu.attributes
-                0x0000000000000040       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+                0x0000000000000040       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
  .gnu.attributes
-                0x0000000000000050       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
+                0x0000000000000050       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
  .gnu.attributes
-                0x0000000000000060       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+                0x0000000000000060       0x10 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
  .gnu.attributes
                 0x0000000000000070       0x10 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
  .gnu.attributes
@@ -2948,22 +2948,22 @@ LOAD data_init
  .data          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/pic32_software_reset.o
 
 .bss%z187       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
 
 .data%z188      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
 
 .bss%z189       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
 
 .data%z190      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
 
 .bss%z191       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .bss           0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
 
 .data%z192      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .data          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
 
 .bss%z193       0x0000000000000000        0x0
  .bss           0x0000000000000000        0x0 build/default/production/i2c_master_noint.o
@@ -3208,7 +3208,7 @@ LOAD data_init
 .text.main_entry
                 0x000000009d0051d4       0x54
  .text.main_entry
-                0x000000009d0051d4       0x54 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+                0x000000009d0051d4       0x54 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
                 0x000000009d005208                __crt0_exit
 
 .text.__pop_float
@@ -3634,13 +3634,13 @@ LOAD data_init
  .text          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
 
 .text%z284      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccpJvI5f.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccDc8INZ.o
 
 .text%z285      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccGHLWmJ.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//cceXpZwQ.o
 
 .text%z286      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccjowzYv.o
+ .text          0x0000000000000000        0x0 /var/folders/hn/g25wn_rs2775t80860w3jt800000gp/T//ccJ9aU7s.o
 
 .text%z287      0x0000000000000000        0x0
  .text          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/debug-exception-return.o
