@@ -86,35 +86,34 @@ int main() {
 
   // initialize the hues here
   float hue1 = 0;
-  float hue2 = hue1 + 30;
-  float hue3 = hue2 + 30;
-  float hue4 = hue3 + 30;
-  float hue5 = hue4 + 30;
+  float hue2 = hue1 + 60;
+  float hue3 = hue2 + 60;
+  float hue4 = hue3 + 60;
+  float hue5 = hue4 + 60;
   // reset the lights before use
   LATBbits.LATB6 = 0;
   char m[50];
   TMR2 = 0;
-  while (TMR2 < 24000) {
+
+  while (TMR2 < 2400) {
     ;
   } // wait 50uS, reset condition
 
   while (1) {
-    blink();
-    wsColor color1 = HSBtoRGB(1, 0, 0);
-    wsColor color2 = HSBtoRGB(hue2, 1, 0);
-    wsColor color3 = HSBtoRGB(hue3, 0, 0.1);
+    wsColor color1 = HSBtoRGB(hue1, 1, 0.1);
+    wsColor color2 = HSBtoRGB(hue2, 1, 0.1);
+    wsColor color3 = HSBtoRGB(hue3, 1, 0.1);
     wsColor color4 = HSBtoRGB(hue4, 1, 0.1);
-    wsColor color5 = HSBtoRGB(hue5, 0, 0.1);
+    wsColor color5 = HSBtoRGB(hue5, 1, 0.1);
     wsColor color_array[5] = {color1, color2, color3, color4,
                               color5}; // set the struct to hold the RGB arrays
-    sprintf(m,"%f %f %f %f %f",hue1,hue2,hue3,hue4,hue5);
-
+    sprintf(m,"%f %f %f %f %f\r\n", hue1,hue2,hue3,hue4,hue5);
     writeUART1(m);
-    hue1++;
-    hue2++;
-    hue3++;
-    hue4++;
-    hue5++;
+    hue1+=3;
+    hue2+=3;
+    hue3+=3;
+    hue4+=3;
+    hue5+=3;
 
     if (hue1 > 360) {
       hue1 = 0;
@@ -139,7 +138,7 @@ int main() {
     ws2812b_setColor(color_array, 5);
 
     TMR2 = 0;
-    while (TMR2 < 50000) {
+    while (TMR2 < 5000) {
     } // wait to slow down color change
   }
 }
